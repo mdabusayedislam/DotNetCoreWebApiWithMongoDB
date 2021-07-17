@@ -5,11 +5,6 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreWebApiWithMongoDB", "DotNetCoreWebApiWithMongoDB\DotNetCoreWebApiWithMongoDB.csproj", "{2EE36683-3144-4933-8FDE-9C688EA2CE76}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoScript", "MongoScript", "{8DBFEBDF-6BBF-444E-A7F3-2BE7998EF4A4}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\abusa\OneDrive\Desktop\Sample_Script_MongoDB.js = C:\Users\abusa\OneDrive\Desktop\Sample_Script_MongoDB.js
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
